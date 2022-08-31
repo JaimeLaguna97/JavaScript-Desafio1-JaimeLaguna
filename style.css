@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.img-random{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    width: 30%;
+}
